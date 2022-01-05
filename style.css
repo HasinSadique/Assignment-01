@@ -1,105 +1,91 @@
-/* section {
-    margin-bottom: 5%;
-    padding: 0% 5%;
-} */
-
-.equal-width {
-    width: 50%;
-    padding-left: 5%;
-    padding-right: 5%;
-    align-items: center;
-}
-
-.equal-width img {
-    width: 70%;
-}
-
-.two-object-section {
-    display: flex;
-    margin-bottom: 5%;
-}
-
-body {
-    background-color: black;
-    padding-top: 5%;
-}
-
-span {
-    color: orange;
-}
-
-.Themed-button {
-    padding: 10px 30px;
-    background-color: rgb(172, 5, 5);
-    color: white;
-    text-decoration: none;
-    border-radius: 10px;
-    /* margin-bottom: 100px; */
-}
-
-.left-shadow {
-    border-left: 2px solid red;
-    padding-left: 10px;
-}
-
-#scroll-more {
-    margin-top: 40px;
-}
-
-#my-mission {
-    padding-bottom: 3%;
-    text-align: center;
-}
-
-#mission {
-    width: 30%;
-    background-color: grey;
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 30px;
-    border-radius: 20px;
-}
-
-#mission img {
-    width: 60%;
-}
-
-#vission {
-    width: 30%;
-    background-color: green;
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 30px;
-    border-radius: 20px;
-}
-
-#vission img {
-    width: 60%;
-}
-
-#goals {
-    width: 30%;
-    background-color: orange;
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 30px;
-    border-radius: 20px;
-}
-
-#goals img {
-    width: 60%;
-}
-
-.section-my-mission {
-    display: flex;
-    padding: 0px 10%;
-    margin-bottom: 10%;
-}
-
-body {
-    color: white;
-}
-
-#bottom-space {
-    margin-bottom: 30px;
-}
+    section {
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-bottom: 5%;
+    }
+    
+    body {
+        background-color: black;
+        color: white;
+    }
+    
+    #flexible-Sections {
+        display: flex;
+    }
+    
+    .halve-length-div {
+        width: 50%;
+    }
+    
+    .halve-length-div img {
+        width: 70%;
+        margin-left: 20%;
+    }
+    
+    span {
+        color: orange;
+    }
+    
+    #intro {
+        border-left: 2px solid red;
+        padding-left: 10px;
+        font-size: 28px;
+    }
+    
+    .themed-button {
+        background-color: red;
+        padding: 10px 30px;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    
+    .space-after-text {
+        margin-bottom: 50px;
+    }
+    
+    .space-before-text {
+        margin-top: 50px;
+    }
+    
+    #my-mission {
+        text-align: center;
+        font-size: 36px;
+    }
+    
+    #mission {
+        width: 30%;
+        background-color: grey;
+        margin-right: 20px;
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    
+    #mission img {
+        width: 60%;
+    }
+    
+    #vission {
+        width: 30%;
+        background-color: green;
+        margin-right: 20px;
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    
+    #vission img {
+        width: 60%;
+    }
+    
+    #goals {
+        width: 30%;
+        background-color: burlywood;
+        margin-right: 20px;
+        /* padding: 30%; */
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    
+    #goals img {
+        width: 60%;
+    }
