@@ -89,3 +89,19 @@
     #goals img {
         width: 60%;
     }
+    
+    #quarter {
+        width: 35%;
+    }
+    
+    #quarter img {
+        width: 85%;
+    }
+    
+    #three-quarter {
+        width: 65%;
+    }
+    
+    .space {
+        margin-right: 10%;
+    }
