@@ -105,3 +105,16 @@
     .space {
         margin-right: 10%;
     }
+    
+    footer h1 {
+        font-family: cursive;
+        text-align: center;
+    }
+    
+    footer p {
+        text-align: center;
+    }
+    
+    hr.solid {
+        border-top: 0.5px solid white;
+    }
